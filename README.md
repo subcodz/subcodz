@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2 align="left">Tech Stack</h2>
 
-<!--
-**subcodz/subcodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Frontend Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Backend Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+<h3 align="left">Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+<h3 align="left">Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
