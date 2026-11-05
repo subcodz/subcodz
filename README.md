@@ -5,7 +5,7 @@
 
 <p align="left">Languages</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="35" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" height="35" />
 </p>
 
 <p align="left">Frontend Development</p>
