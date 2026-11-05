@@ -15,7 +15,7 @@
 
 <p align="left">Backend Development</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="35" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,fastify" height="35" />
 </p>
 
 <p align="left">Databases</p>
